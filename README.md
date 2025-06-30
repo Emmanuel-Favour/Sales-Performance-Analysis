@@ -2,9 +2,9 @@
 
 
 
-*To view my project Spreadsheet, click on the raw data to download the xlsb file, and open on your local computer with your  Microsoft excel from version 2016 and above*
+*To view my project Spreadsheet, click on the raw data to download the xlsb file [Here](https://github.com/Emmanuel-Favour/Sales-Performance-Analysis/blob/main/Sales%20Performance%20Sprint%202.xlsb), and open on your local computer with your  Microsoft excel from version 2016 and above*
 
-## This spreadsheet consist of 4y Datasets:
+## This spreadsheet consist of 4 Datasets:
 1. AdventureWorks.salesorderheader (with salesreasonID)
 2. AdventureWorks.salesreason
 3. AdventureWorks.employee (with contact data)
